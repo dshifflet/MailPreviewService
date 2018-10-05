@@ -1,0 +1,6 @@
+﻿{
+  "ApiName": "MailFolderHost",
+  "Hosts": [ "http://localhost:5000" ],
+  "PathBase": "/mailviewer",
+  "MailPath": "D:\\Mail\\samples"
+}
