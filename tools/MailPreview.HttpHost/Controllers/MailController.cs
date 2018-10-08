@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
-using MailPreview.HttpHost.Views;
+using MailPreview.HttpHost.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MailPreview.HttpHost.Controllers

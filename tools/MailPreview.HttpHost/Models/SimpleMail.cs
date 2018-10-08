@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MailPreview.HttpHost.Views
+namespace MailPreview.HttpHost.Models
 {
     public class SimpleMail
     {
